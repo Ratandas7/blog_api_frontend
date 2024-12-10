@@ -1,0 +1,3 @@
+backend/.pdenv
+backend/db.sqlite3
+backend/__pycache__/
